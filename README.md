@@ -1,4 +1,3 @@
-ALi, [5/2/2024 12:20 PM]
 # Real-Time Chat Application with AI Integration
 
 ## Overview
